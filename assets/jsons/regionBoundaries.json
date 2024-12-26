@@ -1,0 +1,172 @@
+[
+  {
+    "Region": "National Capital Region (NCR) - Metro Manila",
+    "parts": 1,
+    "min_lon": 120.7917034,
+    "min_lat": 14.3478041,
+    "max_lon": 121.13496469999998,
+    "max_lat": 14.785335499999999,
+    "centre_lon": 121.00585260047822,
+    "centre_lat": 14.588540256343489
+  },
+  {
+    "Region": "Cordillera Administrative Region (CAR)",
+    "parts": 1,
+    "min_lon": 120.4597054,
+    "min_lat": 16.1810039,
+    "max_lon": 121.665381,
+    "max_lat": 18.533893,
+    "centre_lon": 121.05042344141505,
+    "centre_lat": 17.355185065757016
+  },
+  {
+    "Region": "Ilocos Region (Region I)",
+    "parts": 1,
+    "min_lon": 119.6077934,
+    "min_lat": 15.611591399999998,
+    "max_lon": 120.9793829,
+    "max_lat": 18.790299899999997,
+    "centre_lon": 120.38606679639227,
+    "centre_lat": 16.988739774698647
+  },
+  {
+    "Region": "Cagayan Valley (Region II)",
+    "parts": 5,
+    "min_lon": 120.73969239999998,
+    "min_lat": 15.757923599999998,
+    "max_lon": 122.66926419999999,
+    "max_lat": 21.2572899,
+    "centre_lon": 121.7908703300829,
+    "centre_lat": 18.002214946874957
+  },
+  {
+    "Region": "Central Luzon (Region III)",
+    "parts": 1,
+    "min_lon": 119.6325412,
+    "min_lat": 14.285299999999998,
+    "max_lon": 122.38323050000001,
+    "max_lat": 16.5139475,
+    "centre_lon": 120.8348579194975,
+    "centre_lat": 15.38438495801722
+  },
+  {
+    "Region": "Calabarzon (Region IV-A)",
+    "parts": 1,
+    "min_lon": 120.3455842,
+    "min_lat": 13.0250287,
+    "max_lon": 122.86441969999998,
+    "max_lat": 15.302251799999999,
+    "centre_lon": 121.6623753372365,
+    "centre_lat": 14.197549135549997
+  },
+  {
+    "Region": "Mimaropa (Region IV-B)",
+    "parts": 12,
+    "min_lon": 114.0952145,
+    "min_lat": 7.413326,
+    "max_lon": 122.8418594,
+    "max_lat": 14.0372441,
+    "centre_lon": 119.7561291883422,
+    "centre_lat": 11.111511660207496
+  },
+  {
+    "Region": "Bicol Region (Region V)",
+    "parts": 1,
+    "min_lon": 122.2828084,
+    "min_lat": 11.5153837,
+    "max_lon": 124.5630866,
+    "max_lat": 14.671904199999998,
+    "centre_lon": 123.50198563300187,
+    "centre_lat": 13.223590935687723
+  },
+  {
+    "Region": "Western Visayas (Region VI)",
+    "parts": 2,
+    "min_lon": 121.14066360000001,
+    "min_lat": 9.310820199999998,
+    "max_lon": 123.7348474,
+    "max_lat": 12.279476,
+    "centre_lon": 122.51511626175586,
+    "centre_lat": 10.986053861960814
+  },
+  {
+    "Region": "Central Visayas (Region VII)",
+    "parts": 1,
+    "min_lon": 122.52862050000002,
+    "min_lat": 8.9027699,
+    "max_lon": 124.7339101,
+    "max_lat": 11.626163,
+    "centre_lon": 123.73986642475526,
+    "centre_lat": 10.063438904863103
+  },
+  {
+    "Region": "Eastern Visayas (Region VIII)",
+    "parts": 1,
+    "min_lon": 123.8991859,
+    "min_lat": 9.761924,
+    "max_lon": 126.105066,
+    "max_lat": 12.894448,
+    "centre_lon": 124.95482584623652,
+    "centre_lat": 11.467490084440705
+  },
+  {
+    "Region": "Zamboanga Peninsula (Region IX)",
+    "parts": 1,
+    "min_lon": 121.75970439999999,
+    "min_lat": 6.5619627,
+    "max_lon": 123.68886139999998,
+    "max_lat": 8.997179,
+    "centre_lon": 122.7766941582956,
+    "centre_lat": 7.763390725088164
+  },
+  {
+    "Region": "Northern Mindanao (Region X)",
+    "parts": 1,
+    "min_lon": 123.54032219999999,
+    "min_lat": 7.408003,
+    "max_lon": 125.4438646,
+    "max_lat": 9.4000309,
+    "centre_lon": 124.58631042588911,
+    "centre_lat": 8.325216880451839
+  },
+  {
+    "Region": "Davao Region (Region XI)",
+    "parts": 1,
+    "min_lon": 125.0540256,
+    "min_lat": 5.229691,
+    "max_lon": 126.73869339999999,
+    "max_lat": 8.0011839,
+    "centre_lon": 125.88360720856987,
+    "centre_lat": 6.976560819323402
+  },
+  {
+    "Region": "Soccsksargen (Region XII)",
+    "parts": 1,
+    "min_lon": 123.88164479999999,
+    "min_lat": 5.4699969,
+    "max_lon": 125.53025099999999,
+    "max_lat": 7.710224,
+    "centre_lon": 124.77084219442754,
+    "centre_lat": 6.519944281511972
+  },
+  {
+    "Region": "Caraga (Region XIII)",
+    "parts": 1,
+    "min_lon": 125.1996159,
+    "min_lat": 7.896632999999999,
+    "max_lon": 126.61892709999998,
+    "max_lat": 10.6083716,
+    "centre_lon": 125.84245661085164,
+    "centre_lat": 9.091541635815497
+  },
+  {
+    "Region": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+    "parts": 6,
+    "min_lon": 117.96666669999999,
+    "min_lat": 4.4255847,
+    "max_lon": 124.9797789,
+    "max_lat": 8.2311127,
+    "centre_lon": 121.28171606402134,
+    "centre_lat": 6.205972490671588
+  }
+]
